@@ -1,0 +1,214 @@
+Write a Python command to print the current date and time.
+Generate a Python command to calculate the factorial of 5.
+Write a Python command to create a list of numbers from 1 to 10 and print it.
+Generate a Python command to find the square root of 16.
+Write a Python command to print the first 10 Fibonacci numbers.
+Generate a Python command to reverse the string "hello world".
+Write a Python command to count the number of vowels in the string "artificial intelligence".
+Generate a Python command to check if 7 is present in the list [2, 5, 7, 9].
+Write a Python command to convert the temperature 25 degrees Celsius to Fahrenheit.
+Generate a Python command to find the largest number in the list [12, 45, 7, 89, 33].
+Write a Python command to generate a random integer between 1 and 100.
+Generate a Python command to sort the list ['apple', 'banana', 'cherry'] alphabetically.
+Write a Python command to remove duplicates from the list [1, 2, 2, 3, 4, 4, 5].
+Generate a Python command to calculate the average of the numbers in the list [10, 20, 30, 40].
+Write a Python command to check if a given number (e.g., 15) is even or odd.
+Generate a Python command to create a dictionary with keys 'name', 'age', and 'city' and print it.
+Write a Python command to access the value associated with the key 'name' in the dictionary {'name': 'Alice', 'age': 30}.
+Generate a Python command to add a new key-value pair ('occupation': 'Engineer') to the dictionary {'name': 'Bob', 'age': 25}.
+Write a Python command to print the keys of the dictionary {'a': 1, 'b': 2, 'c': 3}.
+Generate a Python command to print the values of the dictionary {'x': 10, 'y': 20, 'z': 30}.
+Write a Python command to calculate the sum of numbers from 1 to 100 using a loop.
+Generate a Python command to print a multiplication table for the number 7 up to 10.
+Write a Python command to check if a given string (e.g., "madam") is a palindrome.
+Generate a Python command to replace all occurrences of the letter 'a' with 'o' in the string "data analysis".
+Write a Python command to split the string "this is a sentence" into a list of words.
+Generate a Python command to join the list ['hello', 'world'] into a single string with a space in between.
+Write a Python command to find the length of the list ['red', 'green', 'blue'].
+Generate a Python command to check if a string starts with the word "hello".
+Write a Python command to convert a string to uppercase.
+Generate a Python command to convert a string to lowercase.
+Write a Python command to find the index of the first occurrence of the letter 'l' in "hello".
+Generate a Python command to extract a substring from "example string" (e.g., from index 2 to 7).
+Write a Python command to check if a string contains only digits.
+Generate a Python command to check if a string contains only alphabetic characters.
+Write a Python command to remove leading and trailing whitespace from the string "  trim me  ".
+Generate a Python command to format the number 3.14159 to two decimal places.
+Write a Python command to calculate the area of a circle with a radius of 5.
+Generate a Python command to calculate the volume of a cube with a side length of 10.
+Write a Python command to simulate a coin flip (output 'heads' or 'tails' randomly).
+Generate a Python command to roll a six-sided die (output a random integer from 1 to 6).
+Write a Python command to choose a random element from the list ['cat', 'dog', 'bird'].
+Generate a Python command to shuffle the elements of the list [1, 2, 3, 4, 5] randomly.
+Write a Python command to create a tuple with the values 10, 20, and 30 and print it.
+Generate a Python command to access the second element of the tuple (1, 5, 10).
+Write a Python command to find the length of the tuple ('a', 'b', 'c', 'd').
+Generate a Python command to check if an element (e.g., 5) is present in the tuple (2, 5, 8).
+Write a Python command to create a set with the elements 1, 2, 3, 2, 1 and print it.
+Generate a Python command to add the element 4 to the set {1, 2, 3}.
+Write a Python command to remove the element 2 from the set {1, 2, 3}.
+Generate a Python command to find the intersection of the sets {1, 2, 3} and {3, 4, 5}.
+Write a Python command to find the union of the sets {1, 2} and {3, 4}.
+Generate a Python command to find the difference between the sets {1, 2, 3} and {3, 4}.
+Write a Python command to check if a set is a subset of another set.
+Generate a Python command to check if two sets are disjoint.
+Write a Python command to create a boolean variable with the value True and print its type.
+Generate a Python command to perform a logical AND operation between True and False.
+Write a Python command to perform a logical OR operation between True and False.
+Generate a Python command to perform a logical NOT operation on True.
+Write a Python command to compare two numbers (e.g., 10 and 5) to check if the first is greater than the second.
+Generate a Python command to compare two strings (e.g., "apple" and "banana") lexicographically.
+Write a Python command to check if a variable is of a specific type (e.g., integer).
+Generate a Python command to convert an integer to a string.
+Write a Python command to convert a string to an integer (if possible).
+Generate a Python command to convert a string to a float (if possible).
+Write a Python command to round the float 3.78 to the nearest integer.
+Generate a Python command to find the absolute value of -15.
+Write a Python command to calculate the power of a number (e.g., 2 raised to the power of 3).
+Generate a Python command to find the remainder when 17 is divided by 5.
+Write a Python command to perform integer division of 17 by 5.
+Generate a Python command to print the ASCII value of the character 'A'.
+Write a Python command to print the character corresponding to the ASCII value 65.
+Generate a Python command to format a string with variables (e.g., "My name is {} and I am {} years old.").
+Write a Python command to open a file in read mode (assuming a safe, temporary file).
+Generate a Python command to read the content of a file (assuming a safe, temporary file).
+Write a Python command to count the number of lines in a file (assuming a safe, temporary file).
+Generate a Python command to print the first line of a file (assuming a safe, temporary file).
+Write a Python command to check if a file exists (assuming a safe, temporary file).
+Generate a Python command to get the size of a file (assuming a safe, temporary file).
+Write a Python command to list all files in a safe, temporary directory.
+Generate a Python command to create a new empty file (in a safe, temporary location).
+Write a Python command to delete a file (in a safe, temporary location).
+Generate a Python command to create a new directory (in a safe, temporary location).
+Write a Python command to delete a directory (if empty, in a safe, temporary location).
+Generate a Python command to change the current working directory (to a safe, temporary location).
+Write a Python command to get the current working directory.
+Generate a Python command to import the 'math' module.
+Write a Python command to use the 'math.pi' constant.
+Generate a Python command to use the 'math.sin()' function.
+Write a Python command to use the 'math.log()' function.
+Generate a Python command to import the 'random' module.
+Write a Python command to use the 'random.random()' function.
+Generate a Python command to use the 'random.choice()' function.
+Write a Python command to import the 'datetime' module.
+Generate a Python command to get the current date using 'datetime'.
+Write a Python command to get the current time using 'datetime'.
+Generate a Python command to format a datetime object as a string.
+Write a Python command to perform a simple HTTP GET request to a safe URL (e.g., a text-only site).
+Generate a Python command to read the content of the response from a safe HTTP GET request.
+Write a Python command to get the HTTP status code from a safe HTTP GET request.
+Generate a Python command to parse a simple JSON string.
+Write a Python command to access a value in a parsed JSON object.
+Generate a Python command to create a simple JSON string from a Python dictionary.
+Write a Python command to use a regular expression to find all occurrences of a pattern in a string.
+Generate a Python command to use a regular expression to replace a pattern in a string.
+Write a Python command to get the current user's name (if safe and available).
+Generate a Python command to get the operating system name (if safe and available).
+Write a Python command to get the Python version.
+Generate a Python command to display the help documentation for a built-in function (e.g., `print`).
+Write a Python command to execute a simple shell command (if strictly safe and read-only, e.g., `ls -l` in a safe directory).
+Generate a Python command to get the environment variables (if safe and non-sensitive).
+Write a Python command to perform a bitwise AND operation.
+Generate a Python command to perform a bitwise OR operation.
+Write a Python command to perform a bitwise XOR operation.
+Generate a Python command to perform a left bit shift operation.
+Write a Python command to perform a right bit shift operation.
+Generate a Python command to create a generator expression for squares of numbers from 1 to 5.
+Write a Python command to iterate through a generator and print its values.
+Generate a Python command to use the `map()` function to square each element in a list.
+Write a Python command to use the `filter()` function to get even numbers from a list.
+Generate a Python command to use the `reduce()` function (from `functools`) to multiply all elements in a list.
+Write a Python command to define a simple function that adds two numbers.
+Generate a Python command to call the function defined above with arguments 3 and 7.
+Write a Python command to define a lambda function that squares a number.
+Generate a Python command to call the lambda function defined above with the argument 4.
+Write a Python command to use list comprehension to create a list of even numbers from 1 to 10.
+Generate a Python command to use dictionary comprehension to create a dictionary where keys are numbers from 1 to 3 and values are their squares.
+Write a Python command to use set comprehension to create a set of vowels from a string.
+Generate a Python command to demonstrate the use of `enumerate()` on a list.
+Write a Python command to demonstrate the use of `zip()` on two lists.
+Generate a Python command to use the `sorted()` function on a dictionary (to get keys sorted by value).
+Write a Python command to use the `max()` function on a list of strings (lexicographically).
+Generate a Python command to use the `min()` function on a list of numbers.
+Write a Python command to demonstrate string formatting using f-strings.
+Generate a Python command to read data from a simple CSV string.
+Write a Python command to perform a basic SQL query (read-only, against a safe, in-memory database if possible).
+Generate a Python command to visualize data using a safe plotting library (e.g., printing a simple bar chart as text).
+Write a Python command to perform a simple statistical calculation on a list of numbers (e.g., mean, median).
+Generate a Python command to perform a basic linear algebra operation on a small matrix (if a safe library allows).
+Write a Python command to demonstrate the use of a basic data structure like a queue (using `collections.deque`).
+Generate a Python command to demonstrate the use of a basic data structure like a stack (using a list).
+Write a Python command to perform a simple natural language processing task (e.g., tokenization of a short string, using a safe library if needed).
+Generate a Python command to perform a basic time series operation (e.g., generating a sequence of dates).
+Write a Python command to interact with a safe, simple API (read-only, returning text or JSON).
+Generate a Python command to perform a basic image manipulation task (e.g., getting the dimensions of a safe, in-memory image if a safe library allows).
+Write a Python command to generate a simple QR code as text output (if a safe library allows).
+Generate a Python command to perform a basic sound processing task (e.g., generating a simple sine wave as data if a safe library allows).
+Write a Python command to demonstrate the use of a simple decorator.
+Generate a Python command to demonstrate the use of a basic context manager.
+Write a Python command to perform a simple simulation (e.g., a random walk).
+Generate a Python command to implement a basic search algorithm (e.g., linear search) on a list.
+Write a Python command to implement a basic sorting algorithm (e.g., bubble sort) on a list.
+Generate a Python command to perform a simple graph traversal (e.g., breadth-first search on a small, in-memory graph if a safe library allows).
+Write a Python command to demonstrate basic file I/O with different encodings (in safe, temporary files).
+Generate a Python command to perform a simple compression/decompression operation on a string (if a safe library allows).
+Write a Python command to demonstrate basic error handling (using `try-except`).
+Generate a Python command to perform a simple benchmarking task (timing a small code snippet).
+Write a Python command to demonstrate the use of a simple class and object.
+Generate a Python command to perform a basic operation using a functional programming paradigm (e.g., using `map` and `reduce`).
+Write a Python command to interact with a safe, in-memory key-value store (if a safe library allows).
+Generate a Python command to perform a simple operation on a string using string methods in combination.
+Write a Python command to perform a basic mathematical operation involving complex numbers (if the language supports it safely).
+Generate a Python command to demonstrate the use of a simple iterator.
+Write a Python command to perform a basic operation on a byte string (if safe).
+Generate a Python command to demonstrate the use of a simple logging mechanism (to a safe, temporary location or output).
+Write a Python command to perform a basic operation on a timezone-aware datetime object.
+Generate a Python command to interact with a safe, in-memory data structure like a priority queue (if a safe library allows).
+Write a Python command to perform a simple operation involving network protocols at a low level (if strictly safe and read-only, e.g., getting local host information).
+Generate a Python command to demonstrate the use of a simple signal handler (if safe and relevant).
+Write a Python command to perform a basic operation on a UUID (if the language supports it safely).
+Generate a Python command to interact with a safe, in-memory graph database (if a safe library allows).
+Write a Python command to perform a simple operation on a currency value (if a safe library allows).
+Generate a Python command to demonstrate the use of a simple plugin mechanism (if safe and relevant).
+Write a Python command to perform a basic operation on a geographic coordinate (if a safe library allows).
+Generate a Python command to interact with a safe, in-memory document store (if a safe library allows).
+Write a Python command to perform a simple operation involving cryptography (using safe, built-in libraries for hashing or encoding).
+Generate a Python command to demonstrate the use of a simple finite state machine.
+Write a Python command to perform a basic operation on a unit of measurement (if a safe library allows).
+Generate a Python command to interact with a safe, in-memory message queue (if a safe library allows).
+Write a Python command to perform a simple operation on a color value (if a safe library allows).
+Generate a Python command to demonstrate the use of a simple abstract base class.
+Write a Python command to perform a basic operation on a time duration (if a safe library allows).
+Generate a Python command to interact with a safe, in-memory trie data structure (if a safe library allows).
+Write a Python command to perform a simple operation involving number theory (e.g., checking for primality for small numbers).
+Generate a Python command to demonstrate the use of a simple metaclass.
+Write a Python command to perform a basic operation on a file path (using safe path manipulation functions).
+Generate a Python command to interact with a safe, in-memory Bloom filter (if a safe library allows).
+Write a Python command to perform a simple operation involving text encoding/decoding.
+Generate a Python command to demonstrate the use of a simple asynchronous operation (if the environment safely supports it).
+Write a Python command to perform a basic operation on a version number string (e.g., comparing versions).
+Generate a Python command to interact with a safe, in-memory spatial index (if a safe library allows).
+Write a Python command to perform a simple operation involving a date/time interval.
+Generate a Python command to demonstrate the use of a simple observer pattern.
+Write a Python command to perform a basic operation on a network address (if safe).
+Generate a Python command to interact with a safe, in-memory configuration management system (if a safe library allows).
+Write pseudocode to find the maximum value in a list of numbers.
+Write pseudocode to calculate the factorial of a given number.
+Write pseudocode to reverse a given string.
+Write pseudocode to determine if a number is prime.
+Write pseudocode to generate the first 10 Fibonacci numbers.
+Write pseudocode to check if a string is a palindrome.
+Write pseudocode to sort a list of numbers in ascending order.
+Write pseudocode to count the number of vowels in a string.
+Write pseudocode to search for an element in a list using linear search.
+Write pseudocode to perform binary search on a sorted list.
+Write pseudocode to calculate the sum of numbers from 1 to 100.
+Write pseudocode to find the average value of a list of numbers.
+Write pseudocode to find the minimum and maximum elements in a list.
+Write pseudocode to simulate rolling a six-sided die.
+Write pseudocode to merge two sorted lists into one sorted list.
+Write pseudocode to swap two variables without using a third variable.
+Write pseudocode to remove duplicate elements from a list.
+Write pseudocode to create a dictionary mapping numbers to their squares.
+Write pseudocode to simulate a basic login system with username and password checks.
+Write pseudocode to find the greatest common divisor (GCD) of two numbers.
