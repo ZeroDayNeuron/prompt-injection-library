@@ -18,7 +18,7 @@ A structured collection of prompt injection techniques organized by category, de
 - instruction-mixing  
 - knowledge-recall-manipulation  
 - leet-speak
-- m365-copilot
+- m365-copilot (Prompts for organizations that use Microsoft Copilot for document summarization, internal data retrieval, analyzing emails, productivity automation etc.)
 - logic-and-reasoning-attacks  
 - model-quirks  
 - multi-turn-injections  
