@@ -28,5 +28,6 @@ A structured collection of prompt injection techniques organized by category, de
 - timing-and-pacing  
 - trickery  
 - xss
+- sensitive-information-disclosure
 
 > ⚠️ This repo is a work in progress. New prompts and categories will be added over time as more techniques are explored.
