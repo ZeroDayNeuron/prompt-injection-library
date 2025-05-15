@@ -1,6 +1,6 @@
 ## 📂 Categorized Prompt Injection Library
 
-A structured collection of prompt injection techniques organized by category, designed for testing and red teaming generative large language models (LLMs).
+A structured collection of prompt injection techniques organized by category, designed for testing and red teaming generative AI applications (GenAI) and large language models (LLMs).
 
 ### 🧠 Categories Included
 
