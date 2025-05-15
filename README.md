@@ -17,7 +17,8 @@ A structured collection of prompt injection techniques organized by category, de
 - indirect-influence  
 - instruction-mixing  
 - knowledge-recall-manipulation  
-- leet-speak  
+- leet-speak
+- m365-copilot
 - logic-and-reasoning-attacks  
 - model-quirks  
 - multi-turn-injections  
@@ -29,5 +30,6 @@ A structured collection of prompt injection techniques organized by category, de
 - trickery  
 - xss
 - sensitive-information-disclosure
+
 
 > ⚠️ This repo is a work in progress. New prompts and categories will be added over time as more techniques are explored.
